@@ -1,0 +1,9 @@
+{
+    "name": "auto_save_mod",
+    "version": "0.0.1",
+    "title": "Auto Save",
+    "author": "Henry Price and Alex",
+    "factorio_version": "1.1",
+    "dependencies": ["base >= 1.1"],
+    "description": "Mod to cause an autosave to occur every one ingame day"
+  }
